@@ -1,4 +1,4 @@
 <template>
-    <p>This is homepage</p>
+    <p>Welcome to my page</p>
 </template>
 
