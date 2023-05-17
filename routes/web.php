@@ -1,3 +1,3 @@
 <?php
-Route::get('/{any}', 'PagesController@index')->where('any', '.*');
+Route::get('/{any}', 'PagesController@indeX')->where('any', '.*');
 
